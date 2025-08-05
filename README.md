@@ -53,7 +53,7 @@ soil-quality-predictor/
 - Click **Predict** to get the soil quality index
 - View results and charts for better decision-making
 
-## ## 🖼️ App Preview
+## 🖼️ App Preview
 
 <img width="1365" height="499" alt="Screenshot 2025-08-05 142951" src="https://github.com/user-attachments/assets/408b4b42-0771-4f9b-84af-e374684956d9" />
 
